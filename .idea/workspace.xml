@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73181c91-22f7-485d-8f89-dc414f6ad020" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Documentação/Especificação Funcional - Uber - 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Documentação/Especificação Funcional - Uber - 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Compatibilidade-Dispositivos.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Estimativa-Preco.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Forma-Pagamento.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Interface-Intuitiva.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Metodo-Pagamento.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Pagamento-Seguro.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Protecao-Dados.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Solicitacao-Corrida.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Status-Corrida.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Suporte-Idiomas.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Taxa-Cancelamento.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/Features Cucumber/Volume-Solicitacoes.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/src/main/resources/archetype-resources/src/test/java/CorridaUber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/target/classes/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/target/classes/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/target/classes/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primeira Etapa - Documentações/target/classes/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nfKrnFKF00IaFdx6SbgACMUQbp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/maria/Documents/Voos2Bim",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73181c91-22f7-485d-8f89-dc414f6ad020" name="Changes" comment="" />
+      <created>1729358893679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729358893679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
